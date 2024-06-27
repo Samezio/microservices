@@ -2,6 +2,7 @@
 
 This repository contains a sample project to demonstrate how to create a microservices environment from scratch in Java using Spring Boot and Spring Cloud. It includes two microservices with a basic setup for service discovery and API gateway.
 
+Refer the blog [here](https://medium.com/@sameerg2255/how-to-create-microservices-using-spring-cloud-d61d796af8de)
 
 ## Overview
 
